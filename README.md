@@ -1,7 +1,16 @@
 # InsightForge
 
 InsightForge es una aplicación de análisis de datos orientada a negocio que permite subir archivos CSV, Excel o PDF para generar métricas clave, hallazgos automáticos, visualizaciones y una vista previa del dataset.
+## Screenshots
 
+### Dashboard
+![Dashboard](screenshots/home.png)
+
+### Automatic Insights
+![Automatic Insights](screenshots/insights.png)
+
+### Charts
+![Charts](screenshots/charts.png)
 ## Features
 
 - Carga de archivos .csv, .xlsx y .pdf
